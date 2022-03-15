@@ -87,9 +87,10 @@ h1 {
   right: 1.5rem;
 }
 .surrounded-elements .copyright h1 {
-  color: var(--off-white);
+  color: #707070;
   font-size: var(--surrounding-text-size);
   text-align: right;
+  font-weight: 100;
 }
 .surrounded-elements .linevector {
   position: fixed;
